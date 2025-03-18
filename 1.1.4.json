@@ -1,9 +1,0 @@
-{
-    "version": "1.1.4",
-    "platforms": {
-      "darwin-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZU5RUk9ldG1nczhXZ095cS9OcjlWTW10cUc4dU0vdTN2K3RZekhRVWlBaGZ5Wms2QXU1OTc4QVRjZXE4L0FKa3ZNY0xRNWNYRDFiNjQySTRoSjd1d2FLSnFNZlRHQ2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5Nzk3MDYyCWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negp3WHppN3JVbmJzcUJDUnZmZVpITWZkQjM4dTRMQnh4T2RHS3RrbzlVNk5MYU8vZXdBV3dMWUp0eHZKcFIzLzZtNTRvWnZrWnZGc2dWaWdIS0hnRUVBQT09Cg==",
-        "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/tauri/Langflow_1.1.4_x64.dmg"
-      }
-    }
-  }
