@@ -1,6 +1,12 @@
 {
-    "versions": [{
-        "name": "1.2.0",
-        "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.0/1.2.0.json"
-    }]
+    "versions": [
+        {
+            "name": "1.2.0",
+            "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.0/1.2.0.json"
+        },
+        {
+            "name": "1.2.1",
+            "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.1/1.2.1.json"
+        }
+    ]
 }
