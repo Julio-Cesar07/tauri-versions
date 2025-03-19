@@ -1,15 +1,15 @@
 {
     "versions": [
         {
-            "name": "1.2.0",
-            "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.0/1.2.0.json",
-            "date": "2025/03/18"
-        },
-        {
             "name": "1.2.1",
             "description": ["feat: update app"]
             "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.1/1.2.1.json",
             "date": "2025/03/19"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.0/1.2.0.json",
+            "date": "2025/03/18"
         }
     ]
 }
