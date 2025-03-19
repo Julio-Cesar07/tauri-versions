@@ -6,7 +6,8 @@
                 "feat: Update node name and description UX editing by @Cristhianzl in #5920", "feat: Restructure Rerankers so both NVIDIA and Cohere work properly by @brian-ogrady in #5933",
                 "feat: add time range for tavily search component by @edwinjosechittilappilly in #6092"
             ],
-            "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.0/1.2.0.json"
+            "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.0/1.2.0.json",
+            "date": "2025/03/18"
         },
         {
             "name": "1.2.1",
