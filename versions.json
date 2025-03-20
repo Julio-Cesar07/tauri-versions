@@ -8,6 +8,7 @@
         },
         {
             "name": "1.2.0",
+            "description": ["First version of the langflow Desktop App"],
             "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.0/1.2.0.json",
             "date": "2025/03/18"
         }
