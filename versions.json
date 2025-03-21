@@ -2,7 +2,7 @@
     "versions": [
         {
             "name": "1.2.1",
-            "description": ["fix: composio component issues", "fix: disappearing text in input when text is too long", "feat: changed window behavior - no longer fullscreen, now occupies the entire screen without fullscreen mode"],
+            "description": ["fix: composio component issues", "fix: disappearing text in input when text is too long", "feat: changed window behavior - no longer fullscreen, now occupies the entire screen without fullscreen mode", "fix: disable cache when creating venv with uv"],
             "url": "https://github.com/Julio-Cesar07/tauri-versions/releases/download/langflow-1.2.1/1.2.1.json",
             "date": "2025/03/20"
         },
