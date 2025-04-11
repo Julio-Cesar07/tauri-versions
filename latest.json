@@ -8,9 +8,12 @@
           "feat: Enhance StructuredOutputComponent and add trustcall dependency",
                 "feat: add customization components",
                 "Fix: add insert mode MongoDB",
-                "feat: Composio Gmail component and AuthInput feature",
-                "Bug Fixes",
-                "fix: Update Composio icon",
+                "feat: Composio Gmail component and AuthInput feature"
+          ]
+        },
+        {
+          "section": "🐛 Bug Fixes",
+          "descriptions": ["fix: Update Composio icon",
                 "fix: add correct amber colors and button design",
                 "fix: fixes dropdown refreshList not working properly",
                 "fix: removed dependency from useEffect that causes chat input to be cleared",
