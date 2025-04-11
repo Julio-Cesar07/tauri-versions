@@ -3,7 +3,7 @@
       "name": "1.3.4",
       "description_section": [
         {
-          "section": "New Features",
+          "section": "✨New Features",
           "descriptions": ["feat: Enhance StructuredOutputComponent and add trustcall dependency"]
         }
       ],
